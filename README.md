@@ -1,4 +1,0 @@
-"# TiimiAppi" 
-"# tiimiappi" 
-"# sportti" 
-"# mobileapp" 
